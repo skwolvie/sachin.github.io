@@ -14,7 +14,7 @@
 /* --- initial state start ------ */
 
 .initial-navbar {
-  background-color: transparent;
+  background-color: white;
 }
 
 .initial-navbar .navbar-brand {
@@ -23,7 +23,7 @@
 }
 
 .initial-navbar li a {
-  color: #c0ccda;
+  color: #1c2d41;
 }
 
 .initial-navbar .navbar-nav .active,
